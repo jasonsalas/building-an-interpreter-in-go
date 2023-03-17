@@ -13,3 +13,5 @@ _(Note: this repo was assembled using Go 1.18)_
 * Chapter 4: [Data types & functions](ast/ast.go)
 
 ![building an interpreter](images/letx=5;.jpg)
+
+- I didn't complete _[The Lost Chapter](https://interpreterbook.com/lost/)_ on building a macro system, but it's worth checking out and messing around with.
